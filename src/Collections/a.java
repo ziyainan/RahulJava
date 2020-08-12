@@ -21,6 +21,7 @@ public class a {
         hm.put(1,"a");
         System.out.println(hm.get(1));
 
+        System.out.println("**********************");
 
 
 
